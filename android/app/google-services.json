@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586019759521",
+    "project_id": "easy-invoice-app-a3dc4",
+    "storage_bucket": "easy-invoice-app-a3dc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586019759521:android:6178cd0282ef36f3c897e0",
+        "android_client_info": {
+          "package_name": "com.example.easy_invoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxQ1wCU28CWS0bjSw21G5bYfMZQdAWR5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
